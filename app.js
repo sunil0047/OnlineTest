@@ -12,6 +12,35 @@ var allQuestions = [{
   question: "How can you lift an elephant with one hand?",
   choices: ["Truck", "Use both hands!", "Use a lever", "There is no such thing"],
   correctAnswer: "Truck"
+},
+{
+  question: "What is Rupert the bear's middle name?",
+  choices: ["Bear", "He doesn't have one!", "The", "Rupert"],
+  correctAnswer: "The"
+},
+
+{
+  question: " What can you never eat for breakfast? ",
+  choices: ["Dinner", "Something sugary", "Lunch", "Supper"],
+  correctAnswer: "Dinner"
+},
+
+{
+  question: "If there are three apples and you took two away, how many do you have?",
+  choices: ["One", "Two", "None"],
+  correctAnswer: "One"
+},
+
+{
+  question: "Spell 'Silk' out loud, 3 times in a row. What do cows drink?",
+  choices: ["Milk", "Water", "Juice", "Cows can't drink"],
+  correctAnswer: "Milk"
+},
+
+{
+  question: "Which is heavier, 100 pounds of rocks or 100 pounds of gold? ",
+  choices: ["100 pounds of rocks", "100 pounds of rocks", "They weigh the same"],
+  correctAnswer: "They weigh the same"
 }
 ];
 var currentquestion=0;
